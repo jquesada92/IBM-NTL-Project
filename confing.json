@@ -1,0 +1,10 @@
+{
+    "Natural Language Understanding": {
+        "apikey": "u8xtO3VN1jIFy8wYCPFaW7LOzIUZ4MzajEVqZ_1IYM-5",
+        "iam_apikey_description": "Auto-generated for key 5e1461ea-9999-4ef6-9816-17f223b453c5",
+        "iam_apikey_name": "Auto-generated service credentials",
+        "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+        "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/b3213ca2c0e54783a7b21edf97dca1ff::serviceid:ServiceId-935636cd-dce0-4665-a0ff-80337815ff8f",
+        "url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/8f71cdef-6af6-4ad7-8c6d-5cdafff33001"
+    }
+}
